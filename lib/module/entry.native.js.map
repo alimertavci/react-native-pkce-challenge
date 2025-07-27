@@ -1,0 +1,1 @@
+{"version":3,"names":["NativeModules","pkceChallenge","PkceChallenge","install"],"sourceRoot":"../../src","sources":["entry.native.ts"],"mappings":"AAAA,SAASA,aAAa,QAAQ,cAAc;AAC5C,OAAOC,aAAa,MAAM,kBAAkB;AAE5C,MAAM;EAAEC;AAAc,CAAC,GAAGF,aAAa;AAEvC,IAAIE,aAAa,IAAI,OAAOA,aAAa,CAACC,OAAO,KAAK,UAAU,EAAE;EAChED,aAAa,CAACC,OAAO,CAAC,CAAC;AACzB;AAEA,eAAeF,aAAa"}
